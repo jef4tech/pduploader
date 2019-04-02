@@ -1,0 +1,50 @@
+[02-Apr-2019 05:08:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tascbcai_root'@'localhost' (using password: YES) in /home/tascbcai/public_html/jef_hide/check.php on line 7
+[02-Apr-2019 05:09:36 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'tascbcai_root'@'localhost' (using password: YES) in /home/tascbcai/public_html/jef_hide/check.php on line 3
+[02-Apr-2019 05:11:36 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'tascbcai_root'@'localhost' (using password: YES) in /home/tascbcai/public_html/jef_hide/check.php on line 3
+[02-Apr-2019 05:25:28 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:25:28 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:25:58 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:25:58 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:26:53 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:26:53 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:37:55 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:37:55 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:38:12 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:38:12 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:40:59 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:40:59 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/tascbcai/public_html/jef_hide/uploadpdf.php on line 25
+[02-Apr-2019 05:48:54 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 05:48:57 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 05:49:14 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 05:49:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 05:49:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 05:54:21 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 05:54:33 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 05:54:33 Etc/GMT] PHP Notice:  Undefined variable: con in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 05:54:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 05:55:05 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:10:51 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:10:54 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:11:20 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:11:34 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:11:42 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:11:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:11:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:11:48 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:14:07 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:14:45 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:15:27 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:15:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:15:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:15:43 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:16:44 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:17:03 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:17:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:17:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:17:07 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:29:25 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:31:35 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:31:42 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
+[02-Apr-2019 06:31:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:31:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tascbcai/public_html/jef_hide/upload1.php on line 42
+[02-Apr-2019 06:31:45 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/tascbcai/public_html/jef_hide/upload1.php on line 8
